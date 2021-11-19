@@ -1,0 +1,3 @@
+* * * * * /home/vinicius/Documentos/UFPA/lab-so/compare.sh
+
+*/5 * * * * echo "Hello word" >> /tmp/hello.txt
